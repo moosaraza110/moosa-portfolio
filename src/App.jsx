@@ -424,7 +424,7 @@ function About() {
                 </div>
               ))}
             </div>
-            <a href="/Moosa_Raza_CV.pdf" target="_blank" rel="noopener noreferrer"
+            <a href="/Moosa_Raza_CV.pdf.pdf" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-sm text-white transition-all duration-200 hover:scale-105 hover:-translate-y-0.5"
               style={{ background: "linear-gradient(135deg, #6366f1, #a855f7)", boxShadow: "0 0 24px rgba(99,102,241,0.35)" }}>
               <Icons.ExternalLink /> View Resume
